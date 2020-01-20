@@ -37,10 +37,10 @@
     }
   },
   "craftingGridRecipe": {
-    "_comment": "TODO: Get this to output 4 instead of 1",
     "type": "shaped",
     "output": {
-      "item": "item@militarybasedecor:tangled_rope"
+      "item": "item@militarybasedecor:tangled_rope",
+      "amount": 4
     },
     "grid": [
       " R "
@@ -50,10 +50,10 @@
     }
   },
   "craftingGridRecipe": {
-    "_comment": "TODO: Get this to output 6 instead of 1",
     "type": "shaped",
     "output": {
-      "item": "item@militarybasedecor:tangled_rope"
+      "item": "item@militarybasedecor:tangled_rope",
+      "amount": 6
     },
     "grid": [
       "   ",
